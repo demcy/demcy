@@ -2,7 +2,7 @@
 - 👀 I’m interested in ReactJS and Redux
 - 🌱 I’m currently learning NodeJS and TypeScript
 - 💞️ I’m looking to collaborate on website development
-- 📫 How to reach me : demcy.meizu@gmail.com
+- 📫 How to reach me : aleksandr.hohlatsov@gmail.com
 
 <!---
 demcy/demcy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
